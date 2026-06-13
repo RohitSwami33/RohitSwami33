@@ -1,6 +1,6 @@
 # Hi, I'm Rohit 👋
 
-**AI & Data Science Engineer · Full-Stack Developer · Cybersecurity Researcher**  
+**AI & Data Science Engineer · Full-Stack Developer · Cybersecurity Researcher · Forward Deployed Engineer**  
 📍 Navi Mumbai, India · 📫 rohitswami537@gmail.com
 
 ---
